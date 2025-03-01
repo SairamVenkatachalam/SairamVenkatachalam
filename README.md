@@ -1,83 +1,59 @@
-Hi, I'm Sairam Venkatachalam! 👋
+## Hi, I'm Sairam Venkatachalam! 👋
 
-📊 About Me
+## 📊 About Me
 
-🎓 I’m a Data Science graduate from George Washington University.
+- 🎓 I’m a Data Science graduate from **George Washington University**.
+- 💻 I have a strong foundation in data science and am passionate about uncovering insights through data.
+- 🌟 Experienced in building interactive dashboards, predictive models, and visualizations.
+- 💬 Ask me about anything related to data science — I’m always eager to discuss and learn more!
 
-💻 I have a strong foundation in data science and am passionate about uncovering insights through data.
+## 🛠️ Skills
 
-🌟 Experienced in building interactive dashboards, predictive models, and visualizations.
+### 📊 Data Science & Analytics:
+- Python
+- R
+- Tableau
+- Power BI
+- Excel
+- VBA
 
-💬 Ask me about anything related to data science — I’m always eager to discuss and learn more!
+### ☁️ Cloud & Deployment:
+- AWS
+- Google Cloud Platform (GCP)
 
-🛠️ Skills
+### 📈 Data Manipulation & Analysis:
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- Darts
 
-📊 Data Science & Analytics:
+### 📊 Visualization:
+- Matplotlib
+- Seaborn
+- Plotly
+- Streamlit
 
-Python
+### 🗃️ Databases:
+- MySQL
+- PostgreSQL
 
-R
+### 💻 Development Tools:
+- Git & GitHub
+- Jupyter Notebook
+- Visual Studio Code
 
-Tableau
+## 📈 GitHub Stats
 
-Power BI
+![Sairam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sairamvenkatachalam&show_icons=true&theme=radical)
 
-Excel
-
-VBA
-
-☁️ Cloud & Deployment:
-
-AWS
-
-Google Cloud Platform (GCP)
-
-📈 Data Manipulation & Analysis:
-
-NumPy
-
-Pandas
-
-Scikit-learn
-
-TensorFlow
-
-Darts
-
-📊 Visualization:
-
-Matplotlib
-
-Seaborn
-
-Plotly
-
-Streamlit
-
-🗃️ Databases:
-
-MySQL
-
-PostgreSQL
-
-💻 Development Tools:
-
-Git & GitHub
-
-Jupyter Notebook
-
-Visual Studio Code
-
-📈 GitHub Stats
-
-
-
-🌐 Connect with Me
+## 🌐 Connect with Me
 
 I love collaborating with others and learning new things — feel free to reach out!
 
-📧 Email: sairam31121999@gmail.com
+- 📧 Email: [sairam31121999@gmail.com](mailto:sairam31121999@gmail.com)
+- 💼 LinkedIn: [Sairam Venkatachalam](https://www.linkedin.com/in/sairamvenkatachalam/)
 
-💼 LinkedIn: Sairam Venkatachalam
+---
 
 Thanks for stopping by — happy coding! 🚀
